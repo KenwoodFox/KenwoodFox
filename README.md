@@ -1,16 +1,28 @@
-### Hi there 👋
+### I'm KenwoodFox!
 
-<!--
-**KenwoodFox/KenwoodFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I build robots and make junk!
 
-Here are some ideas to get you started:
+ - Python is my favorite language but i also know:
+   - cpp
+   - c
+   - java
+   - c# (I think c# is the worst!)
+   - PET BASIC
+   - bash/zsh
+   - golang
+ - And im also learning
+   - Perl (Don't laugh~)
+   - PHP
+   - JS (Not my fault i dident start here~)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+<details>
+  <summary>GitHub Stats</summary>
+
+  <img align="left" alt="KenwoodFox's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KenwoodFox&show_icons=true&theme=radical" />
+
+</details>
+
+[![Website](https://img.shields.io/website?label=kitsunehosting.net&style=for-the-badge&url=https://kitsunehosting.net/)](https://kitsunehosting.net/)
