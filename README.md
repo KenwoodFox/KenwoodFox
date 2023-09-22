@@ -2,18 +2,18 @@
 
 ## I build robots and make junk!
 
- - Python is my favorite language but i also know:
+ - Python is my favorite language but I also know:
    - cpp
-   - c
    - java
-   - c# (I think c# is the worst!)
-   - PET BASIC
+   - c# (Yucky!!)
+   - c
    - bash/zsh
    - golang
- - And im also learning
+ - I'm also learning
    - Perl (Don't laugh~)
    - PHP
-   - JS (Not my fault i dident start here~)
+   - JS (It is not my fault, I didn't start here!)
+   - Rust
 
 <br />
 <br />
